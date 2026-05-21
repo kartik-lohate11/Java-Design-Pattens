@@ -238,7 +238,7 @@ Feel free to:
 
 ## LinkedIn
 
-[Add your LinkedIn profile link here.](https://www.linkedin.com/in/kartik-lohate-java-developer/)
+(https://www.linkedin.com/in/kartik-lohate-java-developer/)
 
 ---
 
