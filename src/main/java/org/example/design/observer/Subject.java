@@ -1,0 +1,7 @@
+package org.example.design.observer;
+
+public interface Subject {
+    void subscribe(Observer observer);
+    void unSubscribe(Observer observer);
+    void alert();
+}
